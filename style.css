@@ -1,0 +1,13 @@
+.flex-item {
+  margin: 2px;
+  width: 500px;
+  height: 500px;
+  background-color: aquamarine;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/*# sourceMappingURL=style.css.map */
